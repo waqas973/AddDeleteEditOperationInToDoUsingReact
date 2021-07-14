@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AddDeleteEditOperationInToDoUsingReact/static/css/main.bb64652a.chunk.css",
+    "main.js": "/AddDeleteEditOperationInToDoUsingReact/static/js/main.3f04e7c1.chunk.js",
+    "main.js.map": "/AddDeleteEditOperationInToDoUsingReact/static/js/main.3f04e7c1.chunk.js.map",
+    "runtime-main.js": "/AddDeleteEditOperationInToDoUsingReact/static/js/runtime-main.24fe02c9.js",
+    "runtime-main.js.map": "/AddDeleteEditOperationInToDoUsingReact/static/js/runtime-main.24fe02c9.js.map",
+    "static/js/2.7f1cb6b2.chunk.js": "/AddDeleteEditOperationInToDoUsingReact/static/js/2.7f1cb6b2.chunk.js",
+    "static/js/2.7f1cb6b2.chunk.js.map": "/AddDeleteEditOperationInToDoUsingReact/static/js/2.7f1cb6b2.chunk.js.map",
+    "index.html": "/AddDeleteEditOperationInToDoUsingReact/index.html",
+    "static/css/main.bb64652a.chunk.css.map": "/AddDeleteEditOperationInToDoUsingReact/static/css/main.bb64652a.chunk.css.map",
+    "static/js/2.7f1cb6b2.chunk.js.LICENSE.txt": "/AddDeleteEditOperationInToDoUsingReact/static/js/2.7f1cb6b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fe02c9.js",
+    "static/js/2.7f1cb6b2.chunk.js",
+    "static/css/main.bb64652a.chunk.css",
+    "static/js/main.3f04e7c1.chunk.js"
+  ]
+}
